@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnkushSingh1116
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Laravel (php framework)
-- 💞️ I’m looking to collaborate on Programming Languages 
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently Data Analytics Course
+- 💞️ I’m looking to collaborate on Languages used in Data Analytics 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
