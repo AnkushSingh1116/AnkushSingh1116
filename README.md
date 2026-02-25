@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkushSingh1116
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently Data Analytics Course
+- 🌱 I’m currently working on Data's
 - 💞️ I’m looking to collaborate on Languages used in Data Analytics 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
